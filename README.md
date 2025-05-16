@@ -25,6 +25,4 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[LinkedIn](https://www.linkedin.com/in/tranxjason/)
-
-[CompTIA Security+ ce certificate.pdf](https://github.com/user-attachments/files/20260111/CompTIA.Security%2B.ce.certificate.pdf)
+[LinkedIn](https://www.linkedin.com/in/nathan-tadesse/)
