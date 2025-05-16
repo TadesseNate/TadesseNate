@@ -17,7 +17,7 @@
 
 <h2>📄 Certifications :</h2>
 
-- [CompTIA Security+ ce certificate.pdf](CompTIA.Security+.ce.certificate.pdf)
+- [CompTIA Security+ ce certificate.pdf](https://github.com/TadesseNate/Certification-/blob/main/CompTIA.Security%2B.ce.certificate.pdf)
 - [CourseCareers Information Technology Professional](https://github.com/tranxjason/Azure/blob/main/CourseCareersCertificate%20.pdf)
 - [Google Cybersecurity Professional](https://github.com/tranxjason/Azure/blob/1976c806d88f40bc1c4318a2a5346353cfb4e6ad/Google%20Cybersecurity%20Certificate.pdf)
 - [ICS2 Certified In Cybersecurity (CC)](https://github.com/tranxjason/Azure/blob/8ad0c26eeba7be0b86243927e5f2410dd45127d9/ISC2%20Certified%20In%20Cybersecurity%20(CC).pdf)
