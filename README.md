@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-  - _ Microsoft Azure (Active Directory)__
+  - __Microsoft Azure (Active Directory)__
     - [Inspecting Network Protocols & Network Security Groups (NSGs)](https://github.com/tranxjason/azure-network-protocols)
     - [Configuring Active Directory within Azure VMs](https://github.com/tranxjason/active-directory-configurations)
     - [Active Directory: Practical Scenario Simulation](https://github.com/tranxjason/active-directory-scenario)
    
-  - _ osTicket (Help Desk Ticketing System)__
+  - __osTicket (Help Desk Ticketing System)__
     - [Prerequisites & Installation](https://github.com/tranxjason/osTicket-install)
     - [Ticket Resolution & Troubleshooting](https://github.com/tranxjason/osTicket-scenario)     
 
@@ -26,7 +26,23 @@
 <h2> 🤳 Connect with me:</h2>
 
 [LinkedIn](https://www.linkedin.com/in/tranxjason/)
+
 <!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with .![CourseCareersCertificate](https://github.com/user-attachments/assets/e882d1dc-7852-4c14-a300-2922e0e1cc6c)
+..
+- 💬 Ask me about ...
+- 📫 How to reach me: ![CourseCareersCertificate](https://github.com/user-attachments/assets/2fbc0227-1db3-41d9-8b0e-7a06f81f0d99)
+...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+--><!--
 **TadesseNate/TadesseNate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
