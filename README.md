@@ -13,7 +13,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Azure Honeynet: SOC Simulation Real-World Cyber Attacks](https://github.com/tranxjason/Azure-Honeynet-Lab)
+- [Azure Honeynet: SOC Simulation Real-World Cyber Attacks](https://github.com/TadesseNate/Azure-HoneyNet-SOC-Sim.git)
 
 <h2>📄 Certifications :</h2>
 
