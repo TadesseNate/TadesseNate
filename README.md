@@ -8,7 +8,7 @@
     - [Active Directory: Practical Scenario Simulation](https://github.com/TadesseNate/Active-Directory-Scenario.git)
   
 - __osTicket (Help Desk Ticketing System)__
-    - [Prerequisites & Installation](https://github.com/tranxjason/osTicket-install)
+    - [Prerequisites & Installation](https://github.com/TadesseNate/OS-Ticket-Install.git)
     - [Ticket Resolution & Troubleshooting](https://github.com/tranxjason/osTicket-scenario)    
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
