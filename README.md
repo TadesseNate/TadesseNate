@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - __Microsoft Azure (Active Directory)__
-    - [Inspecting Network Protocols & Network Security Groups (NSGs)](https://github.com/tranxjason/azure-network-protocols)
+    - [Inspecting Network Protocols & Network Security Groups (NSGs)](https://github.com/TadesseNate/Azure-Network-Protocols.git)
     - [Configuring Active Directory within Azure VMs](https://github.com/tranxjason/active-directory-configurations)
     - [Active Directory: Practical Scenario Simulation](https://github.com/TadesseNate/Active-Directory-Scenario/blob/main/README.md)
   
