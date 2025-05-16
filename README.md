@@ -9,7 +9,7 @@
   
 - __osTicket (Help Desk Ticketing System)__
     - [Prerequisites & Installation](https://github.com/TadesseNate/OS-Ticket-Install.git)
-    - [Ticket Resolution & Troubleshooting](https://github.com/tranxjason/osTicket-scenario)    
+    - [Ticket Resolution & Troubleshooting](https://github.com/TadesseNate/OS-Ticket-Scenario-.git)    
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
