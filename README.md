@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-  - __Microsoft Azure (Active Directory)__
+  - _ Microsoft Azure (Active Directory)__
     - [Inspecting Network Protocols & Network Security Groups (NSGs)](https://github.com/tranxjason/azure-network-protocols)
     - [Configuring Active Directory within Azure VMs](https://github.com/tranxjason/active-directory-configurations)
     - [Active Directory: Practical Scenario Simulation](https://github.com/tranxjason/active-directory-scenario)
    
-  - __osTicket (Help Desk Ticketing System)__
+  - _ osTicket (Help Desk Ticketing System)__
     - [Prerequisites & Installation](https://github.com/tranxjason/osTicket-install)
     - [Ticket Resolution & Troubleshooting](https://github.com/tranxjason/osTicket-scenario)     
 
