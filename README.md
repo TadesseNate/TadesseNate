@@ -4,7 +4,7 @@
 
 - __Microsoft Azure (Active Directory)__
     - [Inspecting Network Protocols & Network Security Groups (NSGs)](https://github.com/TadesseNate/Azure-Network-Protocols.git)
-    - [Configuring Active Directory within Azure VMs](https://github.com/tranxjason/active-directory-configurations)
+    - [Configuring Active Directory within Azure VMs](https://github.com/TadesseNate/Active-Directory-Configurations-.git)
     - [Active Directory: Practical Scenario Simulation](https://github.com/TadesseNate/Active-Directory-Scenario.git)
   
 - __osTicket (Help Desk Ticketing System)__
