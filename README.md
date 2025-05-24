@@ -22,6 +22,7 @@
 <h2>📄 Certifications :</h2>
 
 - [CompTIA Security+ ce certificate.pdf](https://github.com/TadesseNate/Certification-/blob/main/CompTIA.Security%2B.ce.certificate.pdf)
+- [University California Irvine Cybersecurity Certificate](https://github.com/TadesseNate/Certification-/blob/main/University%20California%20Irvine%20Cybersecurity%20bootcamp%20Certificate%20.pdf)
 - [Google Cybersecurity Certificate](https://github.com/TadesseNate/Certification-/blob/main/Google%20IT%20Support%20Certificate.pdf)
 - [Try Hack Me SOC Level 1](https://github.com/TadesseNate/Certification-/blob/main/TryHackMe-SOC%20Level%201.pdf)
 - [Google IT Support Certificate](https://github.com/TadesseNate/Certification-/blob/main/Google%20IT%20Support%20Certificate.pdf)
