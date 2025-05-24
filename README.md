@@ -15,6 +15,9 @@
 
 - [Azure Honeynet: SOC Simulation Real-World Cyber Attacks](https://github.com/TadesseNate/Azure-HoneyNet-SOC-Sim.git)
 
+- [Securing-Cloud-Based-Web-Application](https://github.com/TadesseNate/Securing-Cloud-Based-Web-Application.git)
+
+  
 <h2>📄 Certifications :</h2>
 
 - [CompTIA Security+ ce certificate.pdf](https://github.com/TadesseNate/Certification-/blob/main/CompTIA.Security%2B.ce.certificate.pdf)
